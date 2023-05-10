@@ -1,191 +1,236 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <title>Vatex Engineering | Welcome</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <title>Vatex Engineering Services| Welcome</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- my style -->
-  <link rel="stylesheet" href="css/style.css">
+    <!-- my style -->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 
-  <!-- font awesome kits -->
-  <script src="https://kit.fontawesome.com/49e10b940e.js" crossorigin="anonymous"></script>
-</head>
-<body>
-    <header>
-        <!-- top social navbar -->
-        <nav class="social-navbar">
-            <div class="social-navbar-left">
-            <ul>
-                <li><i class="fa fa-phone"></i> +234 903 327 9170</li>
-                <li><i class="fa fa-envelope"></i> codedreamer347@gmail.com</li>
-                <li><i class="fa-solid fa-location-dot"></i> 23 Eleyele Oyo state</li>
+    <!-- font awesome kits -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+    <script defer src="https://kit.fontawesome.com/49e10b940e.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="primary-header">
+      <!-- top social navbar -->
+      <div class="social-navbar">
+          <ul role="list" aria-label="company contact" class="social-navbar-left">
+            <li>
+              <i aria-hidden="true" class="fa fa-phone clr-base"> <span class="visually-hidden">Phone number</span></i> 234 806 001 9969</span>
+            </li>
+            <li><i aria-hidden="true" class="fa fa-envelope clr-base"> <span class="visually-hidden">Email</span></i> info@vatexengineering.com.ng</li>
+          </ul>
+          <ul role="list" aria-label="social media" class="social-navbar-right">
+            <div>
+                <a href="#"><i aria-hidden="true" class="fa fa-facebook clr-base"> <span class="visually-hidden">facebook</span></i></a>
+                <a href="#"> <i aria-hidden="true" class="fa fa-instagram clr-base"> <span class="visually-hidden">Instagram</span></i></a>
+                <a href="#"><i aria-hidden="true" class="fa fa-twitter clr-base"> <span class="visually-hidden">Twitter</span></i></a>
+
+            </div>
+            <div class="cta">
+                <span class="clr-base">|</span>
+                <a href="#" class="self-right clr-base">Get a Quote</a>
+            </div>
+          </ul>
+      </div>
+
+      <!-- main navbar -->
+      <div class="navbar">
+        <div class="navbar-brand">
+          <a href="index.html">
+            <img class="logo" src="./img/logo.png" alt="Vatex Engineering Service Logo" />
+          </a>
+        </div>
+        <nav class="nav" aria-label="primary-navigation" id="primary-navigation">
+            <ul role="list" class="navbar-menu">
+              <li class="nav-item">
+                <a href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a href="#">Services <i class="fas fa-chevron-down"></i></a>
+                <ul role="list" class="navbar-submenu">
+                  <li><a href="#">Submenu item</a></li>
+                  <li><a href="#">Submenu item</a></li>
+                  <li><a href="#">Submenu item</a></li>
+                  <li><a href="#">Submenu item</a></li>
+                </ul>			
+              </li>
+              <li class="nav-item">
+                <a href="#">About</a>
+              </li>
+              <li class="nav-item">
+                <a href="#">Contact</a>
+              </li>
             </ul>
-            </div>
-            <div class="social-navbar-right">
-                <div>
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-google"></i></a>
-                    <a href="#"><i class="fa fa-youtube"></i></a>
-                </div>
-                <div>
-                    Get a Quote
-                    <i class="fa-solid fa-caret-right"></i>
-                </div>
-            </div>
         </nav>
-
-        <!-- main navbar -->
-        <nav class="navbar">
-            <div class="navbar-brand">
-                <a href="#">VATEX</a>
-            </div>
-            <button class="navbar-toggler" type="button">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="navbar-collapse">
-                <div>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                        <a href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#">Services</a>
-                            </li>
-                        <li class="nav-item">
-                        <a href="#">About</a>
-                        </li>
-                        <li class="nav-item">
-                        <a href="#">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="navbar-icons">
-                    <a href="#"><i class="fa fa-duotone fa-magnifying-glass fa-shake"></i></a>
-                    <a href="#"><i class="fa fa-duotone fa-cart-shopping"></i></a>
-                    <a href="#"><i class="fa fa-duotone fa-globe"></i></a>
-                    <a href="#"><i class="fa fa-duotone fa-bars"></i></a>
-                </div>
-                
-            </div>
-        </nav>    
+        <button
+          class="mobile-nav-toggle"
+          aria-controls="primary-navigation"
+          aria-expanded="false"
+        >
+          <span class="visually-hidden">Menu</span>
+          
+          <div class="harmburger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+        </button>
+      </div>
     </header>
 
     <main>
-        <section>
-            <div class="slideshow-container">
+      <section>
+        <div class="slideshow-container">
+          <div class="mySlides fade">
+            <img src="img/hero-bg2.jpg" />
+          </div>
 
-                <div class="mySlides fade">
-                  <img src="img/hero-bg2.jpg">
-                </div>
-                
-                <div class="mySlides fade">
-                  <img src="img/hero-bg.jpg">
-                </div>
-                
-                <div class="mySlides fade">
-                  <img src="img/pipeline.jpg">
-                </div>
-                
-                <div class="hero">
-                   <div class="hero-content">
-                    <p>Welcome to VATEX</p>
-                    <p>Don't trust your petroleum engineering and construction needs to just anyone. Choose the experienced team at VATEX Engineering Company and get the results you need to succeed.</p>
-                    <h1>YOU'LL FEEL INTELLIGENT ENGINEER</h1>
-                    <button class="hero-btn">Contact Us</button>
-                    <button class="hero-btn">Our Services</button>
-                   </div>
-                </div>
-                </div>
-                
-                <div style="text-align:center">
-                  <span class="dot"></span> 
-                  <span class="dot"></span> 
-                  <span class="dot"></span> 
+          <div class="mySlides fade">
+            <img src="img/hero-bg.jpg" />
+          </div>
+
+          <div class="mySlides fade">
+            <img src="img/pipeline.jpg" />
+          </div>
+
+          <div class="hero">
+            <div class="hero-content">
+              <p>Welcome to VATEX</p>
+              <p>
+                Don't trust your petroleum engineering and construction needs to
+                just anyone. Choose the experienced team at VATEX Engineering
+                Company and get the results you need to succeed.
+              </p>
+              <h1>YOU'LL FEEL INTELLIGENT ENGINEER</h1>
+              <button class="hero-btn">Contact Us</button>
+              <button class="hero-btn">Our Services</button>
             </div>
+          </div>
+        </div>
 
-        <section class="brief">
-            <div class="brief-detail">
-            <div class="brief-detail-image"><img src="img/engineer.jpg" alt="Engineering"></div>
-            <div class="brief-detail-text">
-                <h2>
-                    Full-Service Petroleum Engineering and Construction Solutions
+        <div style="text-align: center">
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+        </div>
+      </section>
+
+      <section class="brief">
+        <div class="brief-detail">
+          <div class="brief-detail-image">
+            <img src="img/engineer.jpg" alt="Engineering" />
+          </div>
+          <div class="brief-detail-text">
+            <h2>
+              Full-Service Petroleum Engineering and Construction Solutions
             </h2>
             <p>
-                Looking for a reliable partner to help you with your next petroleum engineering and construction project? Look no further than our experienced team at Vatex engineering company. With decades of combined experience in the industry, we have the skills, expertise, and resources needed to tackle projects of any size and complexity.
+              Looking for a reliable partner to help you with your next
+              petroleum engineering and construction project? Look no further
+              than our experienced team at Vatex engineering company. With
+              decades of combined experience in the industry, we have the
+              skills, expertise, and resources needed to tackle projects of any
+              size and complexity.
             </p>
-            </div>
-            </div>
-        </section>
-        <section class="brief">
+          </div>
+        </div>
+      </section>
+      <section class="brief">
         <div class="brief-detail">
-            <div class="brief-detail-text">
-                <h2>
-                    Full-Service Petroleum Engineering and Construction Solutions
-                </h2>
-                <p>
-                Looking for a reliable partner to help you with your next petroleum engineering and construction project? Look no further than our experienced team at Vatex engineering company. With decades of combined experience in the industry, we have the skills, expertise, and resources needed to tackle projects of any size and complexity.
-                </p>
-            </div>
-            <div class="brief-detail-image"><img src="img/engineer.jpg" alt="Engineering"></div>
-         </div>
-        </section>
-        <section class="card-section">
-            <h2 class="card-heading">Services Offer</h2>
-            <div class="cards-container">
-                <div class="card reveal">
-                    <img src="img/drilling-rig.jpg" alt="Drilling Services">
-                    <h2>Drilling Services</h2>
-                    <p>Our drilling services are designed to help you extract oil and gas reserves safely and efficiently. Our team of experienced drilling engineers and technicians use the latest technology and techniques to optimize drilling operations and reduce costs.</p>
-                </div>
-                <div class="card reveal">
-                    <img src="img/pipeline.jpg" alt="Pipeline Construction">
-                    <h2>Pipeline Construction</h2>
-                    <p>We offer a range of pipeline construction and maintenance services to help you transport oil and gas safely and reliably. Our team of experts has years of experience in pipeline design, construction, and maintenance, ensuring that your project is completed on time and on budget.</p>
-                </div>
-                <div class="card reveal">
-                    <img src="img/refinery.jpg" alt="Refinery Optimization">
-                    <h2>Refinery Optimization</h2>
-                    <p>Our refinery optimization services are designed to help you maximize efficiency, reduce costs, and improve product quality. Our team of refinery experts uses advanced analytics and modeling tools to identify opportunities for improvement and develop customized solutions that meet your specific needs.</p>
-                </div>
-            </div>
-        </section>
-
-        <footer>
-            <div class="footer-newsletter">
-                <h3>Sign up for our newsletter</h3>
-                <form action="#" method="post">
-                  <input type="email" name="email" placeholder="Enter your email">
-                  <button type="submit">Subscribe</button>
-                </form>
-            </div>
-            <div class="footer-container">
-                <div class="footer-links">
-                  <h3>Links</h3>
-                  <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Products</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Contact</a></li>
-                  </ul>
-                </div>
-                <div class="footer-suggestions">
-                  <h3>Other Suggestions</h3>
-                  <ul>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                  </ul>
-                </div>
-            </div>
-        </footer>
-          
+          <div class="brief-detail-text">
+            <h2>
+              Full-Service Petroleum Engineering and Construction Solutions
+            </h2>
+            <p>
+              Looking for a reliable partner to help you with your next
+              petroleum engineering and construction project? Look no further
+              than our experienced team at Vatex engineering company. With
+              decades of combined experience in the industry, we have the
+              skills, expertise, and resources needed to tackle projects of any
+              size and complexity.
+            </p>
+          </div>
+          <div class="brief-detail-image">
+            <img src="img/engineer.jpg" alt="Engineering" />
+          </div>
+        </div>
+      </section>
+      <section class="card-section">
+        <h2 class="card-heading">Services Offer</h2>
+        <div class="cards-container">
+          <div class="card reveal">
+            <img src="img/drilling-rig.jpg" alt="Drilling Services" />
+            <h2>Drilling Services</h2>
+            <p>
+              Our drilling services are designed to help you extract oil and gas
+              reserves safely and efficiently. Our team of experienced drilling
+              engineers and technicians use the latest technology and techniques
+              to optimize drilling operations and reduce costs.
+            </p>
+          </div>
+          <div class="card reveal">
+            <img src="img/pipeline.jpg" alt="Pipeline Construction" />
+            <h2>Pipeline Construction</h2>
+            <p>
+              We offer a range of pipeline construction and maintenance services
+              to help you transport oil and gas safely and reliably. Our team of
+              experts has years of experience in pipeline design, construction,
+              and maintenance, ensuring that your project is completed on time
+              and on budget.
+            </p>
+          </div>
+          <div class="card reveal">
+            <img src="img/refinery.jpg" alt="Refinery Optimization" />
+            <h2>Refinery Optimization</h2>
+            <p>
+              Our refinery optimization services are designed to help you
+              maximize efficiency, reduce costs, and improve product quality.
+              Our team of refinery experts uses advanced analytics and modeling
+              tools to identify opportunities for improvement and develop
+              customized solutions that meet your specific needs.
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
-  <script src="js/script.js"></script>
 
-</body>
+    <footer>
+      <div class="footer-newsletter">
+        <h3>Sign up for our newsletter</h3>
+        <form action="#" method="post">
+          <input type="email" name="email" placeholder="Enter your email" />
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      <div class="footer-container">
+        <div class="footer-links">
+          <h3>Links</h3>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-suggestions">
+          <h3>Other Suggestions</h3>
+          <ul>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">Testimonials</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms of Service</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src="js/script.js"></script>
+  </body>
 </html>
