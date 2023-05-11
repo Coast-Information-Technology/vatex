@@ -335,8 +335,9 @@ body {
 
 /* navigation */
 .logo {
-  width: 2.5rem;
-  height: 2rem;
+  background-image: url("../img/logo.png");
+  width: 3rem;
+  height: 3rem;
 }
 
 .nav-wrapper {
@@ -471,7 +472,8 @@ body {
   padding: 0.5em 1em;
   background: hsl(210, 100%, 17%);
 }
-.navbar-menu li:hover {
+.navbar-menu li:hover,
+.navbar-menu li.active {
   background: var(--clr-accent);
 }
 .navbar-menu li:last-child {
