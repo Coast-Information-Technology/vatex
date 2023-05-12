@@ -21,9 +21,9 @@
       <div class="social-navbar">
           <ul role="list" aria-label="company contact" class="social-navbar-left">
             <li>
-              <i aria-hidden="true" class="fa fa-phone clr-base"> <span class="visually-hidden">Phone number</span></i> 234 806 001 9969</span>
+              <i aria-hidden="true" class="fa fa-phone clr-base mr-1"> <span class="visually-hidden">Phone number</span></i> 2349152826530</span>
             </li>
-            <li><i aria-hidden="true" class="fa fa-envelope clr-base"> <span class="visually-hidden">Email</span></i> info@vatexengineering.com.ng</li>
+            <li><i aria-hidden="true" class="fa fa-envelope clr-base mr-1"> <span class="visually-hidden">Email</span></i> info@vatexengineering.com.ng</li>
           </ul>
           <ul role="list" aria-label="social media" class="social-navbar-right">
             <div>
@@ -43,31 +43,29 @@
       <div class="navbar">
         <div class="navbar-brand">
           <a href="index.html">
-            <figure class="logo">
+            <div class="logo">
               <span class="visually-hidden">Vatex Engineering Services</span>
-            </figure>
-            <!-- <img class="logo" src="./img/logo.png" alt="Vatex Engineering Service Logo" /> -->
+            </div><!-- <img class="logo" src="./img/logo.png" alt="Vatex Engineering Service Logo" /> -->
           </a>
         </div>
         <nav class="nav" aria-label="primary-navigation" id="primary-navigation">
             <ul role="list" class="navbar-menu">
               <li class="nav-item active">
-                <a href="#">Home</a>
+                <a href="index.html">Home</a>
               </li>
-              <li class="nav-item">
-                <a href="#">Services <i class="fas fa-chevron-down"></i></a>
+              <li class="nav-item dropdown">
+                <a href="#">Services <i class="fas fa-chevron-down clr-base ml-1"></i></a>
                 <ul role="list" class="navbar-submenu">
-                  <li><a href="#">Submenu item</a></li>
-                  <li><a href="#">Submenu item</a></li>
-                  <li><a href="#">Submenu item</a></li>
-                  <li><a href="#">Submenu item</a></li>
+                  <li><a href="engineering.html"> <i class="fas fa-tools clr-base mr-1"></i> Engineering</a></li>
+                  <li><a href="procurement.html"> <i class="fa fa-shopping-bag clr-base mr-1" aria-hidden="true"></i> Procurement</a></li>
+                  <li><a href="construction.html"> <i class="fa fa-wrench  clr-base mr-1" aria-hidden="true"></i> Construction</a></li>
                 </ul>			
               </li>
               <li class="nav-item">
-                <a href="#">About</a>
+                <a href="about.html">About</a>
               </li>
               <li class="nav-item">
-                <a href="#">Contact</a>
+                <a href="contact.html">Contact</a>
               </li>
             </ul>
         </nav>
@@ -203,35 +201,36 @@
       </section>
     </main>
 
-    <footer>
-      <div class="footer-newsletter">
-        <h3>Sign up for our newsletter</h3>
-        <form action="#" method="post">
+    <footer class="footer">
+      <div class="container">
+        
+      <div class="newsletter">
+        <form method="post">
           <input type="email" name="email" placeholder="Enter your email" />
           <button type="submit">Subscribe</button>
         </form>
       </div>
       <div class="footer-container">
         <div class="footer-links">
-          <h3>Links</h3>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Products</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+          <h3 class="tertiary-heading">Pages</h3>
+          <ul role="list">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
         <div class="footer-suggestions">
-          <h3>Other Suggestions</h3>
-          <ul>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Testimonials</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Terms of Service</a></li>
+          <h3 class="tertiary-heading">Suggestions</h3>
+          <ul role="list">
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#testimonial">Testimonials</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="toc.html">Terms of Service</a></li>
           </ul>
         </div>
+      </div>
+      <p class="copyright">&copy All rights reserved by <span class="copyright">Vatex Engineering Services</span></p>
       </div>
     </footer>
     <script src="js/script.js"></script>

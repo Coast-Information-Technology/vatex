@@ -39,7 +39,10 @@ function showSlides() {
 }
 
 const navToggle = document.querySelector('.mobile-nav-toggle')
-const nav = document.querySelector('.primary-navigation')
+const nav = document.querySelector('.nav')
+const subMenu = document.querySelector('navbar-submenu');
+const dropdown = document.querySelector('.dropdown');
+const mobileScreen = window.innerWidth
 
 navToggle.addEventListener('click', () => {
   if (nav.hasAttribute('data-visible')) {
@@ -49,3 +52,18 @@ navToggle.addEventListener('click', () => {
   }
   nav.toggleAttribute('data-visible')
 })
+
+console.log(`screen width ${mobileScreen}`)
+if (mobileScreen <= "768px") {
+
+  console.log("submenu clicked")
+  dropdown.addEventListener('click', () => {
+    console.log("submenu clicked")
+    // if (subMenu.hasAttribute('data-visible')) {
+    //   dropdown.setAttribute("aria-expanded", false)
+    // } else {
+    //   dropdown.setAttribute("aria-expanded", true)
+    // }
+    // subMenu.toggleAttribute('data-visible')
+  })
+}
