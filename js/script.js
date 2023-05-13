@@ -40,7 +40,7 @@ function showSlides() {
 
 const navToggle = document.querySelector('.mobile-nav-toggle')
 const nav = document.querySelector('.nav')
-const subMenu = document.querySelector('navbar-submenu');
+const subMenu = document.querySelector('.navbar-submenu');
 const dropdown = document.querySelector('.dropdown');
 const mobileScreen = window.innerWidth
 
@@ -54,16 +54,14 @@ navToggle.addEventListener('click', () => {
 })
 
 console.log(`screen width ${mobileScreen}`)
-if (mobileScreen <= "768px") {
+if (mobileScreen <= 768) {
 
-  console.log("submenu clicked")
   dropdown.addEventListener('click', () => {
-    console.log("submenu clicked")
-    // if (subMenu.hasAttribute('data-visible')) {
-    //   dropdown.setAttribute("aria-expanded", false)
-    // } else {
-    //   dropdown.setAttribute("aria-expanded", true)
-    // }
-    // subMenu.toggleAttribute('data-visible')
+    if (subMenu.hasAttribute('data-visible') === null) {
+      dropdown.setAttribute("aria-expanded", false)
+    } else {
+      dropdown.setAttribute("aria-expanded", true)
+    }
+    subMenu.toggleAttribute('data-visible')
   })
 }

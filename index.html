@@ -53,7 +53,7 @@
               <li class="nav-item active">
                 <a href="index.html">Home</a>
               </li>
-              <li class="nav-item dropdown">
+              <li class="nav-item dropdown" id="dropdown">
                 <a href="#">Services <i class="fas fa-chevron-down clr-base ml-1"></i></a>
                 <ul role="list" class="navbar-submenu">
                   <li><a href="engineering.html"> <i class="fas fa-tools clr-base mr-1"></i> Engineering</a></li>
@@ -200,19 +200,20 @@
         </div>
       </section>
     </main>
-
+ 
     <footer class="footer">
       <div class="container">
         
-      <div class="newsletter">
-        <form method="post">
-          <input type="email" name="email" placeholder="Enter your email" />
-          <button type="submit">Subscribe</button>
-        </form>
-      </div>
+    
+  <form class="subscribe">
+    <h3 class="semi-bold center">Subscribe For Newsletter</h3>
+    <input placeholder="Your e-mail" class="subscribe-input" name="email" type="email" />
+    <button class="submit-btn">SUBMIT </button>
+  </form>
+
       <div class="footer-container">
         <div class="footer-links">
-          <h3 class="tertiary-heading">Pages</h3>
+          <h3 class="tertiary-heading mb-1">Pages</h3>
           <ul role="list">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
@@ -220,17 +221,25 @@
             <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
+        <div class="services">
+          <h3 class="tertiary-heading mb-1">Services</h3>
+          <ul role="list">
+            <li><a href="engineering.html">Engineering</a></li>
+            <li><a href="procurement.html">Procurement</a></li>
+            <li><a href="construction.html">Construction</a></li>
+            <li><a href="#testimonial">Testimonials</a></li>
+          </ul>
+        </div>
         <div class="footer-suggestions">
-          <h3 class="tertiary-heading">Suggestions</h3>
+          <h3 class="tertiary-heading mb-1">Suggestions</h3>
           <ul role="list">
             <li><a href="#faq">FAQ</a></li>
-            <li><a href="#testimonial">Testimonials</a></li>
             <li><a href="privacy.html">Privacy Policy</a></li>
-            <li><a href="toc.html">Terms of Service</a></li>
+            <li class="mb-2"><a href="toc.html">Terms of Service</a></li>
           </ul>
         </div>
       </div>
-      <p class="copyright">&copy All rights reserved by <span class="copyright">Vatex Engineering Services</span></p>
+      <p class="copyright center mt-2">&copy All rights reserved by <span class="copyright">Vatex Engineering Services</span></p>
       </div>
     </footer>
     <script src="js/script.js"></script>
