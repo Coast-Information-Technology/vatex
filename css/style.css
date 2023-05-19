@@ -296,7 +296,7 @@ svg {
   text-align: center;
 }
 /* Change media query size to 375px (23.4375 em) for frontend mentor */
-@media (min-width: 678px) {
+@media (min-width: 768px) {
   .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
@@ -333,6 +333,11 @@ svg {
 section,
 footer {
   padding-block: 2.5rem;
+}
+@media (max-width: 768px) {
+  .mobile-mt-2 {
+    margin-block-start: 2rem;
+  }
 }
 
 /* 3.   Utility Classes ends */
@@ -452,9 +457,10 @@ body {
 /* Dropdown */
 .navbar-submenu {
   position: absolute;
-  width: 12.5rem;
+  width: 18rem;
   top: 2rem;
   left: 0;
+  transition: all 2s ease-in-out;
 }
 .navbar-submenu {
   display: none;
@@ -467,11 +473,16 @@ body {
   margin-top: 2px;
 }
 
+.navbar-submenu li:hover {
+  margin-inline-start: 1rem;
+  margin-inline-end: -2rem;
+}
+
 .navbar-submenu > li > a {
   padding: 3rem 2em;
 }
 
-.harmburger div {
+.hamburger div {
   width: 18px;
   height: 2px;
   margin: 5px;
@@ -525,7 +536,7 @@ body {
     width: 100vw;
     background-color: var(--clr-base-color);
     z-index: 3;
-    top: 10vh;
+    top: 6rem;
     right: 0;
     animation: navigation 1s ease 0s 1 normal forwards;
   }
@@ -551,6 +562,7 @@ body {
   #dropdown.active {
     background-color: hsl(210, 100%, 17%);
   }
+
   .navbar-submenu[data-visible] {
     display: block;
   }
@@ -869,9 +881,7 @@ button.hero-btn {
 
 .subscribe .submit-btn {
   position: absolute;
-  border-radius: 30px;
-  border-bottom-right-radius: 0;
-  border-top-right-radius: 0;
+  clip-path: polygon(9% 0, 100% 0%, 100% 100%, 9% 100%, 0% 50%);
   background-color: var(--clr-accent);
   color: var(--clr-base-color);
   padding: 1.5em 1.56em;
@@ -893,10 +903,9 @@ button.hero-btn {
 .footer-container {
   margin-block: 3rem 2rem;
   margin-inline: auto;
-  width: min(100%, 36rem);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 .footer a {
   color: var(--clr-base-color);
@@ -906,4 +915,23 @@ button.hero-btn {
 .footer a:hover {
   color: var(--clr-accent);
   font-weight: var(--fw-semi-bold);
+}
+
+@media (min-width: 768px) {
+  .footer-container {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "pages suggestions services-1 services-2";
+  }
+  .footer-container > :nth-child(1) {
+    grid-area: pages;
+  }
+  .footer-container > :nth-child(2) {
+    grid-area: services-1;
+  }
+  .footer-container > :nth-child(3) {
+    grid-area: services-2;
+  }
+  .footer-container > :nth-child(4) {
+    grid-area: suggestions;
+  }
 }
