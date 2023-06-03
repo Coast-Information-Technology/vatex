@@ -3,74 +3,34 @@ AOS.init({
   duration: 900,
 });
 
-const mediaScroller = document.querySelector(".media-scroller");
-const leftController = document.querySelector(".left");
-const rightController = document.querySelector(".right");
-const mediaElements = document.querySelector(".media-element");
+// const mediaScroller = document.querySelector(".media-scroller");
+// const leftController = document.querySelector(".left");
+// const rightController = document.querySelector(".right");
+// const mediaElements = document.querySelector(".media-element");
 
-const mediaElementsTotal = mediaElements.classList.length;
-let counter = 0;
+// const mediaElementsTotal = mediaElements.classList.length;
+// let counter = 0;
 
-const imageSlider = () => {
-  leftController.addEventListener("click", () => {
-    console.log(`This is the total media element ${mediaElementsTotal}`);
-    console.log(`before clicking is ${counter}`);
-    counter = counter + 35;
-    mediaScroller.style.marginLeft = `${counter}%`;
-    c;
-    console.log("Left is clicked");
-    console.log(`after clicking is ${counter}`);
-  });
-  rightController.addEventListener("click", () => {
-    console.log(`This is the total media element ${mediaElementsTotal}`);
-    console.log(`before clicking is ${counter}`);
-    counter = counter - 35;
-    mediaScroller.style.marginLeft = `${counter}%`;
-    console.log("right is clicked");
-    console.log(`after clicking is ${counter}`);
-  });
-};
-imageSlider();
-
-
-function reveal() {
-  var reveals = document.querySelectorAll(".reveal");
-
-  for (var i = 0; i < reveals.length; i++) {
-    var windowHeight = window.innerHeight;
-    var elementTop = reveals[i].getBoundingClientRect().top;
-    var elementVisible = 150;
-
-    if (elementTop < windowHeight - elementVisible) {
-      reveals[i].classList.add("active");
-    } else {
-      reveals[i].classList.remove("active");
-    }
-  }
-}
-
-window.addEventListener("scroll", reveal);
-
-
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) { slideIndex = 1 }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex - 1].style.display = "block";
-  dots[slideIndex - 1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 2 seconds
-}
+// const imageSlider = () => {
+//   leftController.addEventListener("click", () => {
+//     console.log(`This is the total media element ${mediaElementsTotal}`);
+//     console.log(`before clicking is ${counter}`);
+//     counter = counter + 35;
+//     mediaScroller.style.marginLeft = `${counter}%`;
+//     c;
+//     console.log("Left is clicked");
+//     console.log(`after clicking is ${counter}`);
+//   });
+//   rightController.addEventListener("click", () => {
+//     console.log(`This is the total media element ${mediaElementsTotal}`);
+//     console.log(`before clicking is ${counter}`);
+//     counter = counter - 35;
+//     mediaScroller.style.marginLeft = `${counter}%`;
+//     console.log("right is clicked");
+//     console.log(`after clicking is ${counter}`);
+//   });
+// };
+// imageSlider();
 
 const navToggle = document.querySelector('.mobile-nav-toggle')
 const nav = document.querySelector('.nav')
