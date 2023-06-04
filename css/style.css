@@ -348,35 +348,19 @@ svg {
 .center {
   text-align: center;
 }
-/* Change media query size to 375px (23.4375 em) for frontend mentor */
+
+/* Change media query size to 768px*/
 @media (min-width: 768px) {
   .even-columns {
     flex-direction: row;
     justify-content: space-between;
   }
+  .even-columns > * {
+    flex: 1 1 50%;
+  }
+
   .justify-self-end-md {
     justify-self: end;
-  }
-  .footer .even-columns {
-    display: grid;
-    background-color: var(--clr-primary-bright-red);
-    padding-inline: var(--section-padding-block);
-    gap: var(--md-padding);
-    grid-template-areas: "logo-social nav form";
-  }
-  .footer .even-columns > :nth-child(1) {
-    display: flex;
-    flex-direction: column;
-    /* padding: var(--lg-padding); */
-    grid-area: logo-social;
-  }
-  .footer .even-columns > :nth-child(2) {
-    grid-area: nav;
-  }
-  .footer .even-columns > :nth-child(3) {
-    padding-block: var(--lg-padding);
-    gap: var(--section-padding-block);
-    grid-area: form;
   }
   input {
     margin-block-end: 0.7rem;
@@ -592,7 +576,7 @@ body {
 .logo {
   background: url("../img/logo.png") no-repeat center;
   background-size: cover;
-  width: 3rem;
+  width: 7rem;
   height: 3rem;
 }
 
@@ -1089,8 +1073,8 @@ section li {
 }
 .col-3 img {
   justify-content: center;
-  width: 220px;
-  height: 220px;
+  max-width: 220px;
+  max-height: 220px;
   object-fit: cover;
   padding: 0.2rem;
   outline: 2px solid var(--secondary-color);
@@ -1120,6 +1104,7 @@ aside h4 {
 }
 aside p {
   color: var(--secondary-font-color);
+  font-style: italic;
 }
 aside .star {
   font-size: 0.8rem;
@@ -1267,7 +1252,7 @@ aside {
   color: var(--primary-font-color);
   padding-inline: 1rem;
   padding-inline-end: 2rem;
-  width: 60%;
+  width: 100%;
 }
 aside > * {
   display: flex;
