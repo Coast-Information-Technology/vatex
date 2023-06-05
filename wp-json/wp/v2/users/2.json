@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "Vatex Engineering Services",
+  "url": "",
+  "description": "",
+  "link": "../author/makon-group/",
+  "slug": "makon-group",
+  "avatar_urls": {
+    "24": "https://secure.gravatar.com/avatar/f526dc65a5254347966380e83c263645?s=24&d=mm&r=g",
+    "48": "https://secure.gravatar.com/avatar/f526dc65a5254347966380e83c263645?s=48&d=mm&r=g",
+    "96": "https://secure.gravatar.com/avatar/f526dc65a5254347966380e83c263645?s=96&d=mm&r=g"
+  },
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "../wp-json/wp/v2/users/2" }],
+    "collection": [{ "href": "../wp-json/wp/v2/users" }]
+  }
+}

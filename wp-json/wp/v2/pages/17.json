@@ -1,0 +1,68 @@
+{
+  "id": 17,
+  "date": "2015-02-05T10:21:11",
+  "date_gmt": "2015-02-05T10:21:11",
+  "guid": {
+    "rendered": "http://wpcharming.wpengine.com/construction/?page_id=17"
+  },
+  "modified": "2019-08-29T12:29:59",
+  "modified_gmt": "2019-08-29T11:29:59",
+  "slug": "our-services",
+  "status": "publish",
+  "type": "page",
+  "link": "../our-services/",
+  "title": { "rendered": "Our Services" },
+  "content": {
+    "rendered": "<p>[vc_row][vc_column][vc_column_text]</p>\n<p style=\"text-align: justify;\">Vatex Engineering Services is an ISO 9001:2015 QMS, ISO 14001:2015 EMS and OHSAS 18001:2007 OHSMS certified international organisation with business interests in the Oil and Gas Facilities, Upstream/Midstream Operations, Refined Petroleum and Specialty Products Supply, Power Generation and Distribution services.</p>\n<p>As an EPICOM company, our services include:[/vc_column_text][/vc_column][/vc_row][vc_row padding_top=&#8221;10&#8243; padding_bottom=&#8221;0&#8243;][vc_column]\n\t<div class=\"child-page-wrapper \">\n\t\t<div class=\"grid-wrapper grid-3-columns grid-row \">\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/engineering-services/\" title=\"Engineering Services\"><img width=\"596\" height=\"274\" src=\"../wp-content/uploads/2019/08/Engineering.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/Engineering.jpg 596w, ../wp-content/uploads/2019/08/Engineering-300x138.jpg 300w\" sizes=\"(max-width: 596px) 100vw, 596px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/engineering-services/\" rel=\"bookmark\">Engineering Services</a></h3>\n\n\t\t\t\t<p>MAKON has proven and reliable resources, expertise and capabilities to perform competitive engineering services from Front End Engineering Design (FEED) to ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/engineering-services/\" title=\"Engineering Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/project-management-services/\" title=\"Project Management Services\"><img width=\"598\" height=\"300\" src=\"../wp-content/uploads/2019/08/Project-Management-598x300.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/Project-Management.jpg 598w, ../wp-content/uploads/2019/08/Project-Management-300x151.jpg 300w, ../wp-content/uploads/2019/08/Project-Management-400x200.jpg 400w\" sizes=\"(max-width: 598px) 100vw, 598px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/project-management-services/\" rel=\"bookmark\">Project Management Services</a></h3>\n\n\t\t\t\t<p>MAKON has reliable resources and expertise to perform competitive Project Management services by applying international best practices to pursue efficient project ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/project-management-services/\" title=\"Project Management Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/procurement-services/\" title=\"Procurement Services\"><img width=\"600\" height=\"300\" src=\"../wp-content/uploads/2019/08/Procurement-600x300.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/Procurement-600x300.jpg 600w, ../wp-content/uploads/2019/08/Procurement-400x200.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/procurement-services/\" rel=\"bookmark\">Procurement Services</a></h3>\n\n\t\t\t\t<p>We have the resources and capabilities to source all items/services required to delivering clients project requirements. We have exclusive partnership with ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/procurement-services/\" title=\"Procurement Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t\t<div class=\"clear\"></div>\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/construction-and-installation-services/\" title=\"Construction &#038; Installation Services\"><img width=\"599\" height=\"300\" src=\"../wp-content/uploads/2019/08/construction-599x300.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/construction-599x300.jpg 599w, ../wp-content/uploads/2019/08/construction-400x200.jpg 400w\" sizes=\"(max-width: 599px) 100vw, 599px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/construction-and-installation-services/\" rel=\"bookmark\">Construction &#038; Installation Services</a></h3>\n\n\t\t\t\t<p>Our\u00a0award winning installation and construction services is well recognized in all areas of operations. We have all equipments, tools and materials ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/construction-and-installation-services/\" title=\"Construction &#038; Installation Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/commissioning-completion-services/\" title=\"Commissioning &#038; Completion Services\"><img width=\"600\" height=\"300\" src=\"../wp-content/uploads/2019/08/commissioning.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/commissioning.jpg 600w, ../wp-content/uploads/2019/08/commissioning-300x150.jpg 300w, ../wp-content/uploads/2019/08/commissioning-400x200.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/commissioning-completion-services/\" rel=\"bookmark\">Commissioning &#038; Completion Services</a></h3>\n\n\t\t\t\t<p>MAKON has proven and reliable resources, expertise and capabilities to perform competitive commissioning and completions services using a quality-oriented process for ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/commissioning-completion-services/\" title=\"Commissioning &#038; Completion Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t<div class=\"grid-item grid-sm-6 grid-md-4\">\n\t\t\t\t<div class=\"grid-thumbnail\">\n\t\t\t\t\t<a href=\"../our-services/operation-and-maintenance-services/\" title=\"Operation and Maintenance Services\"><img width=\"600\" height=\"300\" src=\"../wp-content/uploads/2019/08/Operation-600x300.jpg\" class=\"attachment-medium-thumb size-medium-thumb wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"../wp-content/uploads/2019/08/Operation-600x300.jpg 600w, ../wp-content/uploads/2019/08/Operation-400x200.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<h3 class=\"grid-title\"><a href=\"../our-services/operation-and-maintenance-services/\" rel=\"bookmark\">Operation and Maintenance Services</a></h3>\n\n\t\t\t\t<p>Our O&amp;M team at MAKON is dedicated to planning and managing the operation and maintenance of oil and gas plants to ...</p>\n\n\t\t\t\t<a class=\"grid-more\" href=\"../our-services/operation-and-maintenance-services/\" title=\"Operation and Maintenance Services\">View Service Detail</a>\n\n\t\t\t</div>\n\t\t\t\n\t\t\t\t<div class=\"clear\"></div>\n\t\t</div>\n\t</div>[/vc_column][/vc_row]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[vc_row][vc_column][vc_column_text] Vatex Engineering Services is an ISO 9001:2015 QMS, ISO 14001:2015 EMS and OHSAS 18001:2007 OHSMS certified international organisation with business interests &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "../wp-json/wp/v2/pages/17" }],
+    "collection": [{ "href": "../wp-json/wp/v2/pages" }],
+    "about": [{ "href": "../wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/comments?post=17"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "../wp-json/wp/v2/pages/17/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1136,
+        "href": "../wp-json/wp/v2/pages/17/revisions/1136"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "../wp-json/wp/v2/media?parent=17"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
