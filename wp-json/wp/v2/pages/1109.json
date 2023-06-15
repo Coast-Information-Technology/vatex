@@ -1,1 +1,84 @@
-{"id":1109,"date":"2019-08-21T14:56:06","date_gmt":"2019-08-21T13:56:06","guid":{"rendered":"http:\/\/makon-group.com\/website\/?page_id=1109"},"modified":"2019-08-21T15:22:15","modified_gmt":"2019-08-21T14:22:15","slug":"operation-and-maintenance-services","status":"publish","type":"page","link":"https:\/\/makon-group.com\/website\/our-services\/operation-and-maintenance-services\/","title":{"rendered":"Operation and Maintenance Services"},"content":{"rendered":"<p style=\"text-align: justify;\">Our O&amp;M team at MAKON is dedicated to planning and managing the operation and maintenance of oil and gas plants to ensure that safe operational performance is optimized, that availability is maximized and cost is minimized.<\/p>\n<p style=\"text-align: justify;\">MAKON deploy a Computerized Maintenance Management System (CMMS) in managing all O&amp;M phases and critically inspect and monitor on a Risk Based Maintenance regime. A number of major international and national oil and gas companies entrust us with Operation an Maintenance of their oil and gas facilities.<\/p>\n<p style=\"text-align: justify;\">Our O&amp;M team has developed an unrivaled understanding of how, when and where to apply the most effective operational methods and specialized maintenance technology.<\/p>\n","protected":false},"excerpt":{"rendered":"<p>Our O&amp;M team at MAKON is dedicated to planning and managing the operation and maintenance of oil and gas plants to &#8230;<\/p>\n","protected":false},"author":1,"featured_media":1110,"parent":17,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":[],"_links":{"self":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1109"}],"collection":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/comments?post=1109"}],"version-history":[{"count":1,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1109\/revisions"}],"predecessor-version":[{"id":1111,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1109\/revisions\/1111"}],"up":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/17"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/media\/1110"}],"wp:attachment":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/media?parent=1109"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 1109,
+  "date": "2019-08-21T14:56:06",
+  "date_gmt": "2019-08-21T13:56:06",
+  "guid": { "rendered": "http://makon-group.com/website/?page_id=1109" },
+  "modified": "2019-08-21T15:22:15",
+  "modified_gmt": "2019-08-21T14:22:15",
+  "slug": "operation-and-maintenance-services",
+  "status": "publish",
+  "type": "page",
+  "link": "https://makon-group.com/website/our-services/operation-and-maintenance-services/",
+  "title": { "rendered": "Operation and Maintenance Services" },
+  "content": {
+    "rendered": "<p style=\"text-align: justify;\">Our O&amp;M team at Vatex Engineering is dedicated to planning and managing the operation and maintenance of oil and gas plants to ensure that safe operational performance is optimized, that availability is maximized and cost is minimized.</p>\n<p style=\"text-align: justify;\">Vatex Engineering deploy a Computerized Maintenance Management System (CMMS) in managing all O&amp;M phases and critically inspect and monitor on a Risk Based Maintenance regime. A number of major international and national oil and gas companies entrust us with Operation an Maintenance of their oil and gas facilities.</p>\n<p style=\"text-align: justify;\">Our O&amp;M team has developed an unrivaled understanding of how, when and where to apply the most effective operational methods and specialized maintenance technology.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Our O&amp;M team at Vatex Engineering is dedicated to planning and managing the operation and maintenance of oil and gas plants to &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 1110,
+  "parent": 17,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1109" }
+    ],
+    "collection": [
+      { "href": "https://makon-group.com/website/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://makon-group.com/website/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/comments?post=1109"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1109/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1111,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1109/revisions/1111"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/17"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://makon-group.com/website/wp-json/wp/v2/media/1110"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://makon-group.com/website/wp-json/wp/v2/media?parent=1109"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
