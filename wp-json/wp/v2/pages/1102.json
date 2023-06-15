@@ -1,1 +1,90 @@
-{"id":1102,"date":"2019-08-21T14:46:47","date_gmt":"2019-08-21T13:46:47","guid":{"rendered":"http:\/\/makon-group.com\/website\/?page_id=1102"},"modified":"2019-08-21T15:19:28","modified_gmt":"2019-08-21T14:19:28","slug":"construction-and-installation-services","status":"publish","type":"page","link":"https:\/\/makon-group.com\/website\/our-services\/construction-and-installation-services\/","title":{"rendered":"Construction &#038; Installation Services"},"content":{"rendered":"<p style=\"text-align: justify;\">Our\u00a0award winning installation and construction services is well recognized in all areas of operations. We have all equipments, tools and materials required to timely complete any complex and large-scale installation\/construction project.<\/p>\n<p style=\"text-align: justify;\">Over the last decade, our construction team has built complex gas handling facilities from inception to completion.<\/p>\n<p style=\"text-align: justify;\">Our well-qualified and hand-on construction team with many years of experience provides quality and timely solutions to our clients\u2019 installation projects. We also have fabrication facilities to provide structural and piping pre-fabrication to our clients.<\/p>\n","protected":false},"excerpt":{"rendered":"<p>Our\u00a0award winning installation and construction services is well recognized in all areas of operations. We have all equipments, tools and materials &#8230;<\/p>\n","protected":false},"author":1,"featured_media":1103,"parent":17,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":[],"_links":{"self":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1102"}],"collection":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/comments?post=1102"}],"version-history":[{"count":2,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1102\/revisions"}],"predecessor-version":[{"id":1105,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/1102\/revisions\/1105"}],"up":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/pages\/17"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/media\/1103"}],"wp:attachment":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/media?parent=1102"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 1102,
+  "date": "2019-08-21T14:46:47",
+  "date_gmt": "2019-08-21T13:46:47",
+  "guid": {
+    "rendered": "http://vatexengineering.com.ng/website/?page_id=1102"
+  },
+  "modified": "2019-08-21T15:19:28",
+  "modified_gmt": "2019-08-21T14:19:28",
+  "slug": "construction-and-installation-services",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vatexengineering.com.ng/our-services/construction-and-installation-services/",
+  "title": { "rendered": "Construction &#038; Installation Services" },
+  "content": {
+    "rendered": "<p style=\"text-align: justify;\">Our\u00a0award winning installation and construction services is well recognized in all areas of operations. We have all equipments, tools and materials required to timely complete any complex and large-scale installation/construction project.</p>\n<p style=\"text-align: justify;\">Over the last decade, our construction team has built complex gas handling facilities from inception to completion.</p>\n<p style=\"text-align: justify;\">Our well-qualified and hand-on construction team with many years of experience provides quality and timely solutions to our clients\u2019 installation projects. We also have fabrication facilities to provide structural and piping pre-fabrication to our clients.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Our\u00a0award winning installation and construction services is well recognized in all areas of operations. We have all equipments, tools and materials &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 1103,
+  "parent": 17,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1102"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1102"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1102/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1105,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1102/revisions/1105"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/17"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1103"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1102"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

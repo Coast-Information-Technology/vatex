@@ -2,13 +2,15 @@
   "id": 1093,
   "date": "2019-08-21T14:26:57",
   "date_gmt": "2019-08-21T13:26:57",
-  "guid": { "rendered": "http://makon-group.com/website/?page_id=1093" },
+  "guid": {
+    "rendered": "http://vatexengineering.com.ng/website/?page_id=1093"
+  },
   "modified": "2019-09-10T14:09:29",
   "modified_gmt": "2019-09-10T13:09:29",
   "slug": "engineering-services",
   "status": "publish",
   "type": "page",
-  "link": "https://makon-group.com/website/our-services/engineering-services/",
+  "link": "https://vatexengineering.com.ng/our-services/engineering-services/",
   "title": { "rendered": "Engineering Services" },
   "content": {
     "rendered": "<p style=\"text-align: justify;\">Vatex Engineering has proven and reliable resources, expertise and capabilities to perform competitive engineering services from Front End Engineering Design (FEED) to Detailed Engineering Design (DED) and including technical support for construction and As-Built drawings.</p>\n<p style=\"text-align: justify;\">Our Multi-disciplinary engineering services cover all areas required to provide technical solutions to oil and gas companies on both complex and large-scale projects.</p>\n<p style=\"text-align: justify;\">We have a diverse national and international team of well-qualified and hands-on Engineers with many years of experience to provide quality, fast response and cost-effective solutions for our clients&#8217; engineering requirements.</p>\n",
@@ -28,53 +30,57 @@
   "meta": [],
   "_links": {
     "self": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1093" }
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1093"
+      }
     ],
     "collection": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/pages" }
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages" }
     ],
     "about": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/types/page" }
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/page"
+      }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/users/1"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/comments?post=1093"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1093"
       }
     ],
     "version-history": [
       {
         "count": 5,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1093/revisions"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1093/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 1325,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/1093/revisions/1325"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1093/revisions/1325"
       }
     ],
     "up": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/pages/17"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/17"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/media/1094"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1094"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://makon-group.com/website/wp-json/wp/v2/media?parent=1093"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1093"
       }
     ],
     "curies": [

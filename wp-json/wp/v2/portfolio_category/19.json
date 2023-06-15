@@ -1,1 +1,36 @@
-{"id":19,"count":9,"description":"","link":"https:\/\/makon-group.com\/website\/portfolio_category\/epc-projects\/","name":"EPC Projects","slug":"epc-projects","taxonomy":"portfolio_category","parent":0,"meta":[],"_links":{"self":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/portfolio_category\/19"}],"collection":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/portfolio_category"}],"about":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/taxonomies\/portfolio_category"}],"wp:post_type":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/portfolio?portfolio_category=19"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 19,
+  "count": 9,
+  "description": "",
+  "link": "https://vatexengineering.com.ng/portfolio_category/epc-projects/",
+  "name": "EPC Projects",
+  "slug": "epc-projects",
+  "taxonomy": "portfolio_category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio_category/19"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio_category"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/taxonomies/portfolio_category"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio?portfolio_category=19"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

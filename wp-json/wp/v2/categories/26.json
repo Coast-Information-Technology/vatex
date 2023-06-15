@@ -1,1 +1,36 @@
-{"id":26,"count":2,"description":"","link":"https:\/\/makon-group.com\/website\/category\/news\/","name":"News","slug":"news","taxonomy":"category","parent":0,"meta":[],"_links":{"self":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/categories\/26"}],"collection":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/makon-group.com\/website\/wp-json\/wp\/v2\/posts?categories=26"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 26,
+  "count": 2,
+  "description": "",
+  "link": "https://vatexengineering.com.ng/category/news/",
+  "name": "News",
+  "slug": "news",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories/26"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/taxonomies/category"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts?categories=26"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

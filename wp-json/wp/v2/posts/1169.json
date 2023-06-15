@@ -2,13 +2,13 @@
   "id": 1169,
   "date": "2019-08-29T13:50:50",
   "date_gmt": "2019-08-29T12:50:50",
-  "guid": { "rendered": "http://makon-group.com/website/?p=1169" },
+  "guid": { "rendered": "http://vatexengineering.com.ng/website/?p=1169" },
   "modified": "2019-08-29T14:52:41",
   "modified_gmt": "2019-08-29T13:52:41",
   "slug": "video-makon-domgas-projects",
   "status": "publish",
   "type": "post",
-  "link": "https://makon-group.com/website/2019/08/29/video-makon-domgas-projects/",
+  "link": "https://vatexengineering.com.ng/2019/08/29/video-makon-domgas-projects/",
   "title": { "rendered": "VIDEO: Vatex Engineering Projects" },
   "content": {
     "rendered": "<p><iframe loading=\"lazy\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/xgAvPZWOEP8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>\n",
@@ -27,59 +27,63 @@
   "tags": [29],
   "_links": {
     "self": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/posts/1169" }
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169"
+      }
     ],
     "collection": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/posts" }
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts" }
     ],
     "about": [
-      { "href": "https://makon-group.com/website/wp-json/wp/v2/types/post" }
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/post"
+      }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/users/2"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/2"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/comments?post=1169"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1169"
       }
     ],
     "version-history": [
       {
         "count": 2,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/posts/1169/revisions"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 1173,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/posts/1169/revisions/1173"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169/revisions/1173"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/media/1172"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1172"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://makon-group.com/website/wp-json/wp/v2/media?parent=1169"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1169"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "category",
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/categories?post=1169"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories?post=1169"
       },
       {
         "taxonomy": "post_tag",
         "embeddable": true,
-        "href": "https://makon-group.com/website/wp-json/wp/v2/tags?post=1169"
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/tags?post=1169"
       }
     ],
     "curies": [
