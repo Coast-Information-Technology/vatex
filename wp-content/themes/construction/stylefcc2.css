@@ -1,14 +1,8 @@
 /*
 Theme Name: Construction
-Theme URI: https://wpcharming.com
-Author: WPCharming
-Author URI: https://wpcharming.com
-Description: Construction and Building Business WordPress Theme
-Version: 3.1.6
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wpcharming
-Tags:two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+Author: Coast Research Technology
+Author URI: https://coastresearchtechnology.com
+Description: Construction and Building Business
 */
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -179,7 +173,7 @@ input::-moz-focus-inner {
 button,
 input {
   line-height: normal;
-  *overflow: visible;
+  overflow: visible;
 }
 
 input[type="checkbox"],
@@ -447,8 +441,8 @@ hr {
 /*------------------------------
 	2.5 Content
 ------------------------------*/
-img {
-  width: 7rem;
+.brand-logo {
+  aspect-ratio: 2/1;
   height: 4rem;
 }
 
@@ -1609,14 +1603,14 @@ input[type="submit"]:focus {
 
 .wpc-menu ul {
   min-width: 12em;
-  *width: 12em;
+  width: 12em;
   box-shadow: 0 9px 14px rgba(0, 0, 0, 0.1);
 }
 .wpc-menu li {
   white-space: nowrap;
-  *white-space: normal;
-  -webkit-transition: background 0.2s;
-  transition: background 0.2s;
+  white-space: normal;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
 }
 .wpc-menu li:hover,
 .wpc-menu li.sfHover {
@@ -1661,7 +1655,7 @@ input[type="submit"]:focus {
 @media screen and (min-width: 1100px) {
   .wpc-menu ul li.menu-item-has-children > a {
     padding-right: 28px;
-    *padding-right: 22px;
+    padding-right: 22px;
   }
   .wpc-menu ul li.menu-item-has-children > a:after {
     content: "";
