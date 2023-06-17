@@ -441,6 +441,13 @@ hr {
 /*------------------------------
 	2.5 Content
 ------------------------------*/
+/* #site-navigation ul > li:hover {
+  background-color: red;
+} */
+#site-navigation ul > li:hover a {
+  color: white;
+  background-color: white;
+}
 .brand-logo {
   aspect-ratio: 2/1;
   height: 4rem;

@@ -319,7 +319,7 @@
 				$response.html( '' ).attr( 'role', '' ).append( data.message );
 
 				if ( data.invalidFields ) {
-					var $invalids = $( '<ul></ul>' );
+					var $invalids = $( '<ul role="list"></ul>' );
 
 					$.each( data.invalidFields, function( i, n ) {
 						if ( n.idref ) {
