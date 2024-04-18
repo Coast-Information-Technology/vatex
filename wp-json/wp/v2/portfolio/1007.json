@@ -3,7 +3,11 @@
   "date": "2019-08-21T07:32:48",
   "date_gmt": "2019-08-21T06:32:48",
   "guid": {
+<<<<<<< HEAD
     "rendered": "http://vatexengineering.com/website/?post_type=portfolio&#038;p=1007"
+=======
+    "rendered": "http://vatexengineering.com.ng/website/?post_type=portfolio&#038;p=1007"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   },
   "modified": "2019-09-03T10:40:13",
   "modified_gmt": "2019-09-03T09:40:13",

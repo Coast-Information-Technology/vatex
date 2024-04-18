@@ -13,7 +13,11 @@
   "link": "../careers/",
   "title": { "rendered": "Careers" },
   "content": {
+<<<<<<< HEAD
     "rendered": "<p>[vc_row][vc_column][vc_column_text]</p>\n<p style=\"text-align: justify;\">Delivering excellence within our industry is important to us at the <strong>Vatex Engineering Services</strong>. The high standards and experience of the people we hire is helping us to emerge as leaders in our field.</p>\n<p style=\"text-align: justify;\">Makon is a rapidly evolving business and our staff are adaptable, quick thinking and people focused every day which contributes to our ongoing success.</p>\n<p style=\"text-align: justify;\">If you&#8217;d like to know about the types of opportunities we have on offer, please contact our HR facility via <strong>hr@vatexengineering.com</strong> or send your Curriculum Vitae to us.</p>\n<p>[/vc_column_text][/vc_column][/vc_row]</p>\n",
+=======
+    "rendered": "<p>[vc_row][vc_column][vc_column_text]</p>\n<p style=\"text-align: justify;\">Delivering excellence within our industry is important to us at the <strong>Vatex Engineering Services</strong>. The high standards and experience of the people we hire is helping us to emerge as leaders in our field.</p>\n<p style=\"text-align: justify;\">Makon is a rapidly evolving business and our staff are adaptable, quick thinking and people focused every day which contributes to our ongoing success.</p>\n<p style=\"text-align: justify;\">If you&#8217;d like to know about the types of opportunities we have on offer, please contact our HR facility via <strong>hr@vatexengineering.com.ng</strong> or send your Curriculum Vitae to us.</p>\n<p>[/vc_column_text][/vc_column][/vc_row]</p>\n",
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
     "protected": false
   },
   "excerpt": {

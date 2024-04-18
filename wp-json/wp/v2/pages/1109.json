@@ -3,14 +3,22 @@
   "date": "2019-08-21T14:56:06",
   "date_gmt": "2019-08-21T13:56:06",
   "guid": {
+<<<<<<< HEAD
     "rendered": "http://vatexengineering.com/website/?page_id=1109"
+=======
+    "rendered": "http://vatexengineering.com.ng/website/?page_id=1109"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   },
   "modified": "2019-08-21T15:22:15",
   "modified_gmt": "2019-08-21T14:22:15",
   "slug": "operation-and-maintenance-services",
   "status": "publish",
   "type": "page",
+<<<<<<< HEAD
   "link": "https://vatexengineering.com/our-services/operation-and-maintenance-services/",
+=======
+  "link": "https://vatexengineering.com.ng/our-services/operation-and-maintenance-services/",
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "title": { "rendered": "Operation and Maintenance Services" },
   "content": {
     "rendered": "<p style=\"text-align: justify;\">Our O&amp;M team at Vatex Engineering is dedicated to planning and managing the operation and maintenance of oil and gas plants to ensure that safe operational performance is optimized, that availability is maximized and cost is minimized.</p>\n<p style=\"text-align: justify;\">Vatex Engineering deploy a Computerized Maintenance Management System (CMMS) in managing all O&amp;M phases and critically inspect and monitor on a Risk Based Maintenance regime. A number of major international and national oil and gas companies entrust us with Operation an Maintenance of their oil and gas facilities.</p>\n<p style=\"text-align: justify;\">Our O&amp;M team has developed an unrivaled understanding of how, when and where to apply the most effective operational methods and specialized maintenance technology.</p>\n",
@@ -31,6 +39,7 @@
   "_links": {
     "self": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1109"
       }
     ],
@@ -40,47 +49,86 @@
     "about": [
       {
         "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1109"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/page"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "author": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/users/1"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/1"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "replies": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=1109"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1109"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "version-history": [
       {
         "count": 1,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1109/revisions"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1109/revisions"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "predecessor-version": [
       {
         "id": 1111,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1109/revisions/1111"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1109/revisions/1111"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "up": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/17"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/17"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media/1110"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1110"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:attachment": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=1109"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1109"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [

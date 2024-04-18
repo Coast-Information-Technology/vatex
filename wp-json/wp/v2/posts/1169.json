@@ -2,13 +2,21 @@
   "id": 1169,
   "date": "2019-08-29T13:50:50",
   "date_gmt": "2019-08-29T12:50:50",
+<<<<<<< HEAD
   "guid": { "rendered": "http://vatexengineering.com/website/?p=1169" },
+=======
+  "guid": { "rendered": "http://vatexengineering.com.ng/website/?p=1169" },
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "modified": "2019-08-29T14:52:41",
   "modified_gmt": "2019-08-29T13:52:41",
   "slug": "video-makon-domgas-projects",
   "status": "publish",
   "type": "post",
+<<<<<<< HEAD
   "link": "https://vatexengineering.com/2019/08/29/video-makon-domgas-projects/",
+=======
+  "link": "https://vatexengineering.com.ng/2019/08/29/video-makon-domgas-projects/",
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "title": { "rendered": "VIDEO: Vatex Engineering Projects" },
   "content": {
     "rendered": "<p><iframe loading=\"lazy\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/xgAvPZWOEP8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>\n",
@@ -28,6 +36,7 @@
   "_links": {
     "self": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/posts/1169"
       }
     ],
@@ -37,53 +46,96 @@
     "about": [
       {
         "href": "https://vatexengineering.com/wp-json/wp/v2/types/post"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/post"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "author": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/users/2"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/2"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "replies": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=1169"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1169"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "version-history": [
       {
         "count": 2,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/posts/1169/revisions"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169/revisions"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "predecessor-version": [
       {
         "id": 1173,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/posts/1169/revisions/1173"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts/1169/revisions/1173"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media/1172"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1172"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:attachment": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=1169"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1169"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:term": [
       {
         "taxonomy": "category",
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/categories?post=1169"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories?post=1169"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       },
       {
         "taxonomy": "post_tag",
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/tags?post=1169"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/tags?post=1169"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [

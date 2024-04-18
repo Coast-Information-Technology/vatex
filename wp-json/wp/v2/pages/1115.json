@@ -3,14 +3,22 @@
   "date": "2019-08-21T15:42:06",
   "date_gmt": "2019-08-21T14:42:06",
   "guid": {
+<<<<<<< HEAD
     "rendered": "http://vatexengineering.com/website/?page_id=1115"
+=======
+    "rendered": "http://vatexengineering.com.ng/website/?page_id=1115"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   },
   "modified": "2019-08-29T15:22:50",
   "modified_gmt": "2019-08-29T14:22:50",
   "slug": "ims-policy",
   "status": "publish",
   "type": "page",
+<<<<<<< HEAD
   "link": "https://vatexengineering.com/ims-policy/",
+=======
+  "link": "https://vatexengineering.com.ng/ims-policy/",
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "title": { "rendered": "IMS Policy" },
   "content": {
     "rendered": "<p style=\"text-align: justify;\">Makon Engineering and Technical Services Limited is committed to quality and safe operations that protect people, the environment, communities and assets wherever we do business of engineering, procurement, installation, operation and maintenance in the oil &amp; gas industry.</p>\n<p style=\"text-align: justify;\">We shall use natural resources efficiently and provide energy that supports sustainable development. We believe that all accidents are preventable. Therefore, our focus would be on accident prevention, while delivering our usual premium world-class services.</p>\n<p style=\"text-align: justify;\">We are committed to:</p>\n<ul role="list">\n<li style=\"text-align: justify;\">Integrating quality, health, safety and environment (QHSE) into how we do business through the IMS;</li>\n<li style=\"text-align: justify;\">Preventing pollution, injury and ill health;</li>\n<li style=\"text-align: justify;\">Complying with applicable legal requirements and other requirements to which we subscribe, related to our environmental aspects, risks, hazards, etc., associated with the IMS;</li>\n<li style=\"text-align: justify;\">Documenting, implementing, maintaining and continually improving on our IMS and its performance;</li>\n<li style=\"text-align: justify;\">Communicating to all persons working under our control with the intent that they are made aware of their individual and IMS obligations;</li>\n<li style=\"text-align: justify;\">Making this policy available to interested parties;</li>\n<li style=\"text-align: justify;\">Contributing to the development of sustainable energy systems and technology;</li>\n<li style=\"text-align: justify;\">Demonstrating the importance of IMS through hands-on leadership and behaviour;</li>\n<li style=\"text-align: justify;\">Openness in all IMS issues and active engagement with stakeholders.</li>\n</ul>\n<p>This policy shall be communicated, understood, applied and supported throughout the organization, and shall provide the framework for setting IMS objectives.</p>\n<p style=\"text-align: justify;\">The policy will be regularly reviewed for continuing suitability to ensure that it continues to be appropriate and in line with business needs.</p>\n",
@@ -31,6 +39,7 @@
   "_links": {
     "self": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1115"
       }
     ],
@@ -40,41 +49,76 @@
     "about": [
       {
         "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1115"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/page"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "author": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/users/1"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/1"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "replies": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=1115"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1115"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "version-history": [
       {
         "count": 5,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1115/revisions"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1115/revisions"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "predecessor-version": [
       {
         "id": 1177,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1115/revisions/1177"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1115/revisions/1177"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media/1131"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1131"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:attachment": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=1115"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1115"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [

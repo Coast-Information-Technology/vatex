@@ -3,14 +3,22 @@
   "date": "2019-08-21T14:42:08",
   "date_gmt": "2019-08-21T13:42:08",
   "guid": {
+<<<<<<< HEAD
     "rendered": "http://vatexengineering.com/website/?page_id=1099"
+=======
+    "rendered": "http://vatexengineering.com.ng/website/?page_id=1099"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   },
   "modified": "2019-08-21T14:42:44",
   "modified_gmt": "2019-08-21T13:42:44",
   "slug": "procurement-services",
   "status": "publish",
   "type": "page",
+<<<<<<< HEAD
   "link": "https://vatexengineering.com/our-services/procurement-services/",
+=======
+  "link": "https://vatexengineering.com.ng/our-services/procurement-services/",
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "title": { "rendered": "Procurement Services" },
   "content": {
     "rendered": "<p style=\"text-align: justify;\">We have the resources and capabilities to source all items/services required to delivering clients project requirements. We have exclusive partnership with major EOMs in the oil ang as sector.</p>\n<p style=\"text-align: justify;\">Over the last decade, we have procured major equipment, plants, tools and materials crucial to aiding the Nigerian government in attaining its gas facilities development goals.</p>\n<p style=\"text-align: justify;\">With offices around the globe, our international procurement team comprises of well-qualified officers with many years of experience to provide a timely and cost-effective solutions to our clients\u2019 procurements.</p>\n",
@@ -31,6 +39,7 @@
   "_links": {
     "self": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1099"
       }
     ],
@@ -40,47 +49,86 @@
     "about": [
       {
         "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1099"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/types/page"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "author": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/users/1"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/users/1"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "replies": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=1099"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/comments?post=1099"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "version-history": [
       {
         "count": 1,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1099/revisions"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1099/revisions"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "predecessor-version": [
       {
         "id": 1101,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1099/revisions/1101"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/1099/revisions/1101"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "up": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/pages/17"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/pages/17"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media/1100"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media/1100"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:attachment": [
       {
+<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=1099"
+=======
+        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/media?parent=1099"
+>>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [
