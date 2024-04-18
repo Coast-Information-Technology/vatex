@@ -2,11 +2,7 @@
   "id": 19,
   "count": 9,
   "description": "",
-<<<<<<< HEAD
   "link": "https://vatexengineering.com/portfolio_category/epc-projects/",
-=======
-  "link": "https://vatexengineering.com.ng/portfolio_category/epc-projects/",
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "name": "EPC Projects",
   "slug": "epc-projects",
   "taxonomy": "portfolio_category",
@@ -15,38 +11,22 @@
   "_links": {
     "self": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/portfolio_category/19"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio_category/19"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "collection": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/portfolio_category"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio_category"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "about": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/taxonomies/portfolio_category"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/taxonomies/portfolio_category"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:post_type": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/portfolio?portfolio_category=19"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/portfolio?portfolio_category=19"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [

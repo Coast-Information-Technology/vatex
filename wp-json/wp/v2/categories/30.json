@@ -2,11 +2,7 @@
   "id": 30,
   "count": 1,
   "description": "",
-<<<<<<< HEAD
   "link": "https://vatexengineering.com/category/videos/",
-=======
-  "link": "https://vatexengineering.com.ng/category/videos/",
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
   "name": "Videos",
   "slug": "videos",
   "taxonomy": "category",
@@ -15,38 +11,22 @@
   "_links": {
     "self": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/categories/30"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories/30"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "collection": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/categories"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/categories"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "about": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/taxonomies/category"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/taxonomies/category"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "wp:post_type": [
       {
-<<<<<<< HEAD
         "href": "https://vatexengineering.com/wp-json/wp/v2/posts?categories=30"
-=======
-        "href": "https://vatexengineering.com.ng/wp-json/wp/v2/posts?categories=30"
->>>>>>> 2837f8220b98dd5cb217423672c23427a8a0ca90
       }
     ],
     "curies": [
