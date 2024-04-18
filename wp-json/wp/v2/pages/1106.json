@@ -37,7 +37,11 @@
     "collection": [
       { "href": "https://vatexengineering.com/wp-json/wp/v2/pages" }
     ],
-    "about": [{}],
+    "about": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+      }
+    ],
     "author": [
       {
         "embeddable": true,
