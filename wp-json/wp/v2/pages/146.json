@@ -1,0 +1,68 @@
+{
+  "id": 146,
+  "date": "2015-02-07T08:28:27",
+  "date_gmt": "2015-02-07T08:28:27",
+  "guid": {
+    "rendered": "http://wpcharming.wpengine.com/construction/?page_id=146"
+  },
+  "modified": "2019-08-21T15:29:53",
+  "modified_gmt": "2019-08-21T14:29:53",
+  "slug": "careers",
+  "status": "publish",
+  "type": "page",
+  "link": "../careers/",
+  "title": { "rendered": "Careers" },
+  "content": {
+    "rendered": "<p>[vc_row][vc_column][vc_column_text]</p>\n<p style=\"text-align: justify;\">Delivering excellence within our industry is important to us at the <strong>Vatex Engineering Services</strong>. The high standards and experience of the people we hire is helping us to emerge as leaders in our field.</p>\n<p style=\"text-align: justify;\">Makon is a rapidly evolving business and our staff are adaptable, quick thinking and people focused every day which contributes to our ongoing success.</p>\n<p style=\"text-align: justify;\">If you&#8217;d like to know about the types of opportunities we have on offer, please contact our HR facility via <strong>hr@vatexengineering.com</strong> or send your Curriculum Vitae to us.</p>\n<p>[/vc_column_text][/vc_column][/vc_row]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[vc_row][vc_column][vc_column_text] Delivering excellence within our industry is important to us at the Vatex Engineering Services. The high standards and experience of the &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "../wp-json/wp/v2/pages/146" }],
+    "collection": [{ "href": "../wp-json/wp/v2/pages" }],
+    "about": [{ "href": "../wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/comments?post=146"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "../wp-json/wp/v2/pages/146/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 953,
+        "href": "../wp-json/wp/v2/pages/146/revisions/953"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "../wp-json/wp/v2/media?parent=146"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

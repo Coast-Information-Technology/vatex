@@ -1,0 +1,36 @@
+{
+  "id": 26,
+  "count": 2,
+  "description": "",
+  "link": "https://vatexengineering.com/category/news/",
+  "name": "News",
+  "slug": "news",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/categories/26"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/categories"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/taxonomies/category"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/posts?categories=26"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

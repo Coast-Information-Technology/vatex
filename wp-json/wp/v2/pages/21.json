@@ -1,0 +1,68 @@
+{
+  "id": 21,
+  "date": "2015-02-05T10:21:41",
+  "date_gmt": "2015-02-05T10:21:41",
+  "guid": {
+    "rendered": "http://wpcharming.wpengine.com/construction/?page_id=21"
+  },
+  "modified": "2019-08-29T11:45:59",
+  "modified_gmt": "2019-08-29T10:45:59",
+  "slug": "who-we-are",
+  "status": "publish",
+  "type": "page",
+  "link": "../who-we-are/",
+  "title": { "rendered": "Who We Are" },
+  "content": {
+    "rendered": "<p>[vc_row padding_top=&#8221;10&#8243; padding_bottom=&#8221;10&#8243;][vc_column width=&#8221;1/2&#8243;]\n\t<div class=\"wpb_content_element featured-box \" >\n\t\t\t<div class=\"featured-box-thumb\"><img src=\"../wp-content/uploads/2019/08/Vatex-Engineering-Services-Adibawa-Pipe-Supports-Pre-cast-600x300.jpg\">\n\t\t\t</div>\n\t</div>\n\t<div class=\"custom-heading wpb_content_element  heading-medium\">\n\t\t<h2 class=\"heading-title\" >WHAT WE DO</h2>\n\t\t<span class=\"heading-line primary\"></span>\n\t</div>[vc_column_text]</p>\n<p style=\"text-align: justify;\">Vatex Engineering Services is an certified international organisation with business interests in the Oil and Gas Facilities, Upstream/Midstream Operations, Refined Petroleum and Specialty Products Supply, Power Generation and Distribution services.</p>\n<p style=\"text-align: justify;\">Vatex Engineering Services started operations through her pioneer subsidiary, Makon Engineering and Technical Services Limited, in 1997 as an instrumentation, Automation and Control Systems Company and has through the years evolved as a leader in the provision of Engineering, Procurement, Installation/Construction, Commissioning, Operation and Maintenance with distinctive competences in the design and the execution of large scale Onshore, Offshore in the Oil &amp; Gas and Energy Market.</p>\n<p style=\"text-align: justify;\">Our team reflects the experience of almost 20 years of delivery world-class solutions and exceptional value in the Oil and Gas business and is committed to global best practices.</p>\n<p style=\"text-align: justify;\">We leverage on diverse national and international team that is rich in talents and innovative ideas to provide long term value creation and sustainable development for the Communities in which we operate. Hence, our excellent performance and timely delivery of complex projects, regardless of the challenges.</p>\n<p>We have offices in Nigeria, South Africa and USA.[/vc_column_text][/vc_column][vc_column width=&#8221;1/2&#8243;][vc_single_image image=&#8221;1010&#8243; img_size=&#8221;medium-thumb&#8221;]\n\t<div class=\"custom-heading wpb_content_element  heading-medium\">\n\t\t<h2 class=\"heading-title\" >VISION, MISSION &amp; VALUES</h2>\n\t\t<span class=\"heading-line primary\"></span>\n\t</div>[vc_column_text]<strong>Vision</strong><br />\nTo be recognized globally as a leader in Oil and Gas infrastructure development, improving quality of life and sustaining economy growth.</p>\n<p style=\"text-align: justify;\"><strong>Mission</strong><br />\nTo deploy our innovative products and services in the most environmentally-friendly way, fulfilling our role in the international effort to reduce wastage and increase savings.</p>\n<p style=\"text-align: justify;\">By developing our opportunities wisely, we seek to grow within the challenging Oil and Gas market by offering added value to our clients and unshakable confidence to our stakeholders.</p>\n<p style=\"text-align: justify;\"><strong>Our Values</strong><br />\nIn performing our functions as a group, we will:</p>\n<ul role="list">\n<li style=\"text-align: justify;\">Place HSSE at the top of all activities. Respect the rights and dignity of the individual.</li>\n<li style=\"text-align: justify;\">Comply with applicable laws and regulations of any country where we maintain business operations</li>\n<li style=\"text-align: justify;\">Operate with the high integrity and ethics expected of our industry.</li>\n<li style=\"text-align: justify;\">Deliver quality products and services.</li>\n</ul>\n<p style=\"text-align: justify;\">.</p>\n<p>[/vc_column_text][/vc_column][/vc_row]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[vc_row padding_top=&#8221;10&#8243; padding_bottom=&#8221;10&#8243;][vc_column width=&#8221;1/2&#8243;][vc_column_text] Vatex Engineering Services is an certified international organisation &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "../wp-json/wp/v2/pages/21" }],
+    "collection": [{ "href": "../wp-json/wp/v2/pages" }],
+    "about": [{ "href": "../wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "../wp-json/wp/v2/comments?post=21"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "../wp-json/wp/v2/pages/21/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1127,
+        "href": "../wp-json/wp/v2/pages/21/revisions/1127"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "../wp-json/wp/v2/media?parent=21"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

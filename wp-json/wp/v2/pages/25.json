@@ -1,0 +1,78 @@
+{
+  "id": 25,
+  "date": "2015-02-05T10:22:10",
+  "date_gmt": "2015-02-05T10:22:10",
+  "guid": {
+    "rendered": "http://wpcharming.wpengine.com/construction/?page_id=25"
+  },
+  "modified": "2019-08-21T12:06:19",
+  "modified_gmt": "2019-08-21T11:06:19",
+  "slug": "contact-us",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vatexengineering.com/contact-us/",
+  "title": { "rendered": "Contact Us" },
+  "content": {
+    "rendered": "<p>[vc_row row_type=&#8221;row_full_center_content&#8221; padding_top=&#8221;10&#8243;][vc_column width=&#8221;1/2&#8243;]\n\t<div class=\"custom-heading wpb_content_element \">\n\t\t<h2 class=\"heading-title\" >Contact Us</h2>\n\t\t<span class=\"heading-line primary\"></span>\n\t</div>[vc_column_text]<iframe loading=\"lazy\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.5637572941405!2d3.475962714770295!3d6.450009395333652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf447cfa17fd9%3A0x9cae0963dc624fb0!2s11+Babatunde+Anjous+Ave%2C+Lekki+Phase+I%2C+Str!5e0!3m2!1sen!2sng!4v1565898989961!5m2!1sen!2sng\" width=\"100%\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>[/vc_column_text][/vc_column][vc_column width=&#8221;1/2&#8243;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243; css=&#8221;.vc_custom_1423767656799{margin-top: 60px !important;margin-bottom: 40px !important;}&#8221;][vc_column_text]<strong>Corporate Office</strong><br />\n11A, Babatunde Anjous,<br />\nOff Admiralty Way, Lekki Phase 1,<br />\nLekki, Lagos<br />\nTel: +234 1 448 5172, 4, 5<br />\nFax: +234 1 448 5173</p>\n<p><strong>Engineering &amp; Project Office</strong><br />\n3rd Floor, Plot 8, Rasheed Alaba Williams St,\u00a0(Road 13),<br />\nOff Admiralty Way, Lekki Phase 1<br />\nLekki, Lagos<br />\nTel: +234 1 950 4399,<br />\n+234 1 270 1051 &amp; 2<br />\nFax: +234 1 270 1053</p>\n<p><strong>Port Harcourt Office</strong><br />\nPlot 362, Faith Mission Avenue,<br />\nTrans Amadi Industrial Layout Phase II<br />\nP. O. Box 6571, Port Harcourt<br />\nTel: +234 84 448 579, +234 84 460 274[/vc_column_text][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243; css=&#8221;.vc_custom_1423767662799{margin-top: 60px !important;margin-bottom: 40px !important;}&#8221;][vc_column_text]<strong>Warri Office</strong><br />\nKm 5, Refinery Road,<br />\nEkpan &#8211; Warri<br />\nTel: +234 52 290 500</p>\n<p><strong>Eket Office</strong><br />\n8, Marina Lane By Esuene House<br />\nOpposite Qua River Hotel,<br />\nEket. Akwa Ibom State</p>\n<p><strong>Makon Inc.</strong><br />\n8158, Spring Cypress Road<br />\nSpring, Tx 77379<br />\nUSA<br />\nTel: +1 832 559 8266</p>\n<p><strong>South Africa Office</strong><br />\nMakon Energy Pty Limited<br />\nThe Greens Office Park<br />\nSparrebosch Building H<br />\nCharles De Gaulle Crescent<br />\nHighveld Extension 12<br />\nCenturion, South Africa<br />\nTel: +27-12 665 0146[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[vc_row row_type=&#8221;row_full_center_content&#8221; padding_top=&#8221;10&#8243;][vc_column width=&#8221;1/2&#8243;][vc_column_text][/vc_column_text][/vc_column][vc_column width=&#8221;1/2&#8243;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243; css=&#8221;.vc_custom_1423767656799{margin-top: 60px !important;margin-bottom: 40px !important;}&#8221;][vc_column_text]Corporate Office 11A, Babatunde Anjous, Off Admiralty Way, Lekki Phase 1, &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/25"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=25"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/25/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 950,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/25/revisions/950"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=25"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

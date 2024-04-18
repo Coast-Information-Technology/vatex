@@ -1,0 +1,90 @@
+{
+  "id": 1106,
+  "date": "2019-08-21T14:51:58",
+  "date_gmt": "2019-08-21T13:51:58",
+  "guid": {
+    "rendered": "http://vatexengineering.com/website/?page_id=1106"
+  },
+  "modified": "2019-08-21T15:21:01",
+  "modified_gmt": "2019-08-21T14:21:01",
+  "slug": "commissioning-completion-services",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vatexengineering.com/our-services/commissioning-completion-services/",
+  "title": { "rendered": "Commissioning &#038; Completion Services" },
+  "content": {
+    "rendered": "<p style=\"text-align: justify;\">Vatex Engineering has proven and reliable resources, expertise and capabilities to perform competitive commissioning and completions services using a quality-oriented process for achieving, verifying and documenting that performance of facilities, systems and assemblies meets defined objectives and criteria.</p>\n<p style=\"text-align: justify;\">Over the last decade, our completions team has been invloved in commissioning of major gas handling facilities in Nigeria and beyond.</p>\n<p style=\"text-align: justify;\">Our international completions team comprises of well-qualified Commissioning Engineers with many years of experience to provide fast response and cost effective solutions to our clients&#8217; commissioning requirements.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Vatex Engineering has proven and reliable resources, expertise and capabilities to perform competitive commissioning and completions services using a quality-oriented process for &#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 1107,
+  "parent": 17,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1106"
+      }
+    ],
+    "collection": [
+      { "href": "https://vatexengineering.com/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/comments?post=1106"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1106/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1108,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/1106/revisions/1108"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/pages/17"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://vatexengineering.com/wp-json/wp/v2/media/1107"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://vatexengineering.com/wp-json/wp/v2/media?parent=1106"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
