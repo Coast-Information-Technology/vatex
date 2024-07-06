@@ -5,6 +5,7 @@
     <title>Vatex Engineering Services | Homes</title>
     <link rel="dns-prefetch" href="http://fonts.googleapis.com/" />
     <link rel="dns-prefetch" href="http://maxcdn.bootstrapcdn.com/" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     
 
     <script type="text/javascript">
@@ -1028,7 +1029,7 @@
                                       left: 0;
                                       width: 100%;
                                       height: 100%;
-                                      background: rgba(0, 0, 0, 0.5);
+                                      background: rgba(0, 0, 0, 0.4);
                                     }
                                     .firstpage-carousel-content {
                                       position: absolute;
@@ -1042,9 +1043,9 @@
                                     }
                                     .firstpage-carousel-content h1 {
                                       font-weight: 700;
-                                      font-size: 3rem;
+                                      font-size: 5rem;
+                                      letter-spacing: 15px;
                                       color: #fff;
-                                      margin-bottom: -5px;
                                     }
                                     .firstpage-carousel-content p {
                                       color: #fff;
@@ -1061,14 +1062,14 @@
                                       padding-left: 2.5rem;
                                     }
                                     .carousel-content h1 {
+                                      text-transform: uppercase;
                                       font-weight: 700;
-                                      font-size: 2rem;
+                                      font-size: 2.5rem;
                                       color: #fff;
-                                      margin-bottom: -5px;
                                     }
                                     .carousel-content p {
                                       color: #fff;
-                                    font-size: 14px;
+                                      font-size: 1.2rem;
                                     }
                                     .carousel-image-container > div > div > div > div {
                                       font-size: 24px;
@@ -1093,6 +1094,9 @@
                                       color: red;
                                       transition: all 0.5s linear;
                                     }
+                                    button {
+                                      background-color: none;
+                                    }
                                     .carousel-prev,
                                     .carousel-next {
                                       position: absolute;
@@ -1102,6 +1106,7 @@
                                       font-size: 20px;
                                       cursor: pointer;
                                       color: #fff;
+                                      background-color: #333;
                                       z-index: 10;
                                     }
                                     .carousel-prev {
@@ -1111,10 +1116,22 @@
                                       right: 0px;
                                     }
 
-                                    @media (max-width: 480px) {
-                                      /* .carousel-content {
+                                    @media (max-width: 600px) {
+                                      .carousel-prev,
+                                      .carousel-next {
                                         display: none;
-                                      } */
+                                      }
+                                      .carousel-content {
+                                        padding: 0 2rem;
+                                      }
+                                    }
+
+                                    @media (max-width: 480px) {
+                                       .firstpage-carousel-content h1 {
+                                        font-size: 3rem;
+                                        letter-spacing: 8px;
+                                        padding: 0 1rem;
+                                      }
                                       .slider-carousel-container {
                                         position: relative;
                                         display: flex;
@@ -1122,7 +1139,7 @@
                                         height: 70vh;
                                       }
                                       .carousel-content {
-                                        padding: 0 2rem;
+                                        padding: 0 1rem;
                                       }
                                     }
                                   </style>
@@ -1133,9 +1150,9 @@
                                         <div class="carousel-image-active">
                                           <img src="./img/vatexengineering 1.avif" alt="Vatex Engineering Services 01">
                                           <div class="firstpage-carousel-content">
-                                            <h1>WELCOME</h1>
-                                            <p>to Vatex Engineering Services</p>
-                                            <div>
+                                            <h1 data-aos="fade-up">WELCOME</h1>
+                                            <p data-aos="fade-up">to Vatex Engineering Services</p>
+                                            <div data-aos="fade-up">
                                               <a class="btn carousel-btn-primary" href="who-we-are/index.html">WHO WE ARE »</a>
                                             </div>
                                           </div>
@@ -1145,9 +1162,9 @@
                                           <img src="./img/vatexengineering 2.jpg" alt="Vatex Engineering Services 02">
                                           <div>
                                             <div class="carousel-content">
-                                              <h1>World-class solutions</h1>
-                                              <p>We deliver world-class solutions and exceptional value in the <br> Oil and Gas business global best practices</p>
-                                              <div>
+                                              <h1 data-aos="fade-up">World-class solutions</h1>
+                                              <p data-aos="fade-up">We deliver world-class solutions and exceptional value in the <br> Oil and Gas business global best practices</p>
+                                              <div data-aos="fade-up">
                                                 <a class="btn carousel-btn-ghost" href="contact-us/index.html">Contact Us »</a>
                                                 <a class="btn carousel-btn-primary" href="our-services/index.html">Our Services »</a>
                                               </div>
@@ -1159,9 +1176,9 @@
                                           <img src="./img/vatexengineering 3.avif" alt="Vatex Engineering Services 03">
                                           <div>
                                             <div class="carousel-content">
-                                              <h1>World-class EPC projects</h1>
-                                              <p>We provide unparalleled project management and construction<br> techniques to deliver world-class EPC projects</p>
-                                              <div>
+                                              <h1 data-aos="fade-up">World-class EPC projects</h1>
+                                              <p data-aos="fade-up">We provide unparalleled project management and construction<br> techniques to deliver world-class EPC projects</p>
+                                              <div data-aos="fade-up">
                                                 <a class="btn carousel-btn-ghost" href="contact-us/index.html">Contact Us »</a>
                                                 <a class="btn carousel-btn-primary" href="project/index.html">Projects »</a>
                                               </div>
@@ -1173,9 +1190,9 @@
                                           <img src="./img/vatexengineering 4.avif" alt="Vatex Engineering Services 04">
                                           <div>
                                             <div class="carousel-content">
-                                              <h1>Skilled and experienced team</h1>
-                                              <p>We have assembled a diverse team of national and international<br> specialists that are rich in talents and innovative ideas</p>
-                                              <div>
+                                              <h1 data-aos="fade-up">Skilled and experienced team</h1>
+                                              <p data-aos="fade-up">We have assembled a diverse team of national and international<br> specialists that are rich in talents and innovative ideas</p>
+                                              <div data-aos="fade-up">
                                                 <a class="btn carousel-btn-primary" href="careers/index.html">Join Us »</a>
                                               </div>
                                             </div>
@@ -1239,7 +1256,9 @@
 
                                     updateSlider();
                                     autoPlay();
+                                    
                                   </script>
+                                  
 
 
                                 <!-- END REVOLUTION SLIDER -->
@@ -2106,6 +2125,11 @@
       src="wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min68e4.js?ver=2.1.6.1"
       id="essential-grid-essential-grid-script-js"
     ></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+      AOS.init();
+    </script>
   </body>
 
 </html>
